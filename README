@@ -1,0 +1,5 @@
+This is a small piece of software designed primarily to keep track of things I learn about PostgreSQL. Every time it takes me some time to figure out how to do something in PostgreSQL, I document it by putting it in this app.
+
+As a side affect, this app is also useful for looking up data in PostgreSQL. It is multitudes faster than PGAdmin3, which I use simply because of historical reasons. PGAdmin4 is unusable (the GUI especially), therefore I am always on the lookout for a good open source alternative.
+
+I would welcome patches, criticism or any other help.
